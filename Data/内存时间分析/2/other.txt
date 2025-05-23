@@ -1,0 +1,987 @@
+C:\Users\lihua\.conda\envs\grap_con\python.exe C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\run.py
+Sampling Time test:
+RN mode with twitch
+reset index!
+随机种子：4337
+random node twitch-0.050 Done!
+随机种子：3712
+random node twitch-0.100 Done!
+随机种子：2187
+random node twitch-0.150 Done!
+随机种子：442
+random node twitch-0.200 Done!
+twitch,RN:整个流程所需要的时间：83.64587497711182
+RE mode with twitch
+reset index!
+1454
+random edge twitch-0.050 Done!
+4909
+random edge twitch-0.100 Done!
+6041
+random edge twitch-0.150 Done!
+316
+random edge twitch-0.200 Done!
+twitch,RE:整个流程所需要的时间：91.4538209438324
+CNARW mode with twitch
+reset index!
+433
+Common Neighbor Aware Random Walk twitch-0.050 Done!
+8141
+Common Neighbor Aware Random Walk twitch-0.100 Done!
+1070
+Common Neighbor Aware Random Walk twitch-0.150 Done!
+1476
+Common Neighbor Aware Random Walk twitch-0.200 Done!
+twitch,CNARW:整个流程所需要的时间：1483.4539122581482
+FF mode with twitch
+reset index!
+205
+forest fire twitch-0.050 Done!
+1293
+forest fire twitch-0.100 Done!
+5937
+forest fire twitch-0.150 Done!
+3011
+forest fire twitch-0.200 Done!
+twitch,FF:整个流程所需要的时间：84.6689088344574
+SS mode with twitch
+reset index!
+4088
+spikyball twitch-0.050 Done!
+280
+spikyball twitch-0.100 Done!
+5073
+spikyball twitch-0.150 Done!
+1106
+spikyball twitch-0.200 Done!
+twitch,SS:整个流程所需要的时间：82.18110752105713
+RN mode with mico
+remove small connected components!
+begin nodes:100000, edges:1080156
+now nodes:93075, edges:1077207
+reset index!
+随机种子：7488
+random node mico-0.050 Done!
+随机种子：5912
+random node mico-0.100 Done!
+随机种子：3255
+random node mico-0.150 Done!
+随机种子：9746
+random node mico-0.200 Done!
+mico,RN:整个流程所需要的时间：12.976239681243896
+RE mode with mico
+remove small connected components!
+begin nodes:100000, edges:1080156
+now nodes:93075, edges:1077207
+reset index!
+1495
+random edge mico-0.050 Done!
+6982
+random edge mico-0.100 Done!
+9691
+random edge mico-0.150 Done!
+8018
+random edge mico-0.200 Done!
+mico,RE:整个流程所需要的时间：10.941806316375732
+CNARW mode with mico
+remove small connected components!
+begin nodes:100000, edges:1080156
+now nodes:93075, edges:1077207
+reset index!
+563
+Common Neighbor Aware Random Walk mico-0.050 Done!
+4971
+Common Neighbor Aware Random Walk mico-0.100 Done!
+9928
+Common Neighbor Aware Random Walk mico-0.150 Done!
+3105
+Common Neighbor Aware Random Walk mico-0.200 Done!
+mico,CNARW:整个流程所需要的时间：36.724640130996704
+FF mode with mico
+remove small connected components!
+begin nodes:100000, edges:1080156
+now nodes:93075, edges:1077207
+reset index!
+4957
+forest fire mico-0.050 Done!
+9799
+forest fire mico-0.100 Done!
+3948
+forest fire mico-0.150 Done!
+7038
+forest fire mico-0.200 Done!
+mico,FF:整个流程所需要的时间：11.237273693084717
+SS mode with mico
+remove small connected components!
+begin nodes:100000, edges:1080156
+now nodes:93075, edges:1077207
+reset index!
+40
+spikyball mico-0.050 Done!
+7514
+spikyball mico-0.100 Done!
+281
+spikyball mico-0.150 Done!
+326
+spikyball mico-0.200 Done!
+mico,SS:整个流程所需要的时间：16.569948196411133
+RN mode with dblp
+reset index!
+随机种子：1712
+random node dblp-0.050 Done!
+随机种子：5845
+random node dblp-0.100 Done!
+随机种子：5363
+random node dblp-0.150 Done!
+随机种子：438
+random node dblp-0.200 Done!
+dblp,RN:整个流程所需要的时间：12.199834108352661
+RE mode with dblp
+reset index!
+5921
+random edge dblp-0.050 Done!
+8814
+random edge dblp-0.100 Done!
+9551
+random edge dblp-0.150 Done!
+2909
+random edge dblp-0.200 Done!
+dblp,RE:整个流程所需要的时间：16.774657011032104
+CNARW mode with dblp
+reset index!
+3746
+Common Neighbor Aware Random Walk dblp-0.050 Done!
+8756
+Common Neighbor Aware Random Walk dblp-0.100 Done!
+9391
+Common Neighbor Aware Random Walk dblp-0.150 Done!
+2747
+Common Neighbor Aware Random Walk dblp-0.200 Done!
+dblp,CNARW:整个流程所需要的时间：35.424822092056274
+FF mode with dblp
+reset index!
+2964
+forest fire dblp-0.050 Done!
+5966
+forest fire dblp-0.100 Done!
+5036
+forest fire dblp-0.150 Done!
+6207
+forest fire dblp-0.200 Done!
+dblp,FF:整个流程所需要的时间：16.282361030578613
+SS mode with dblp
+reset index!
+5010
+spikyball dblp-0.050 Done!
+5050
+spikyball dblp-0.100 Done!
+1129
+spikyball dblp-0.150 Done!
+7984
+spikyball dblp-0.200 Done!
+dblp,SS:整个流程所需要的时间：19.411617040634155
+RN mode with twitter
+reset index!
+随机种子：1252
+random node twitter-0.050 Done!
+随机种子：6580
+random node twitter-0.100 Done!
+随机种子：6393
+random node twitter-0.150 Done!
+随机种子：421
+random node twitter-0.200 Done!
+twitter,RN:整个流程所需要的时间：13.72441554069519
+RE mode with twitter
+reset index!
+9113
+random edge twitter-0.050 Done!
+9521
+random edge twitter-0.100 Done!
+9411
+random edge twitter-0.150 Done!
+1444
+random edge twitter-0.200 Done!
+twitter,RE:整个流程所需要的时间：16.618606567382812
+CNARW mode with twitter
+reset index!
+2240
+Common Neighbor Aware Random Walk twitter-0.050 Done!
+5657
+Common Neighbor Aware Random Walk twitter-0.100 Done!
+9259
+Common Neighbor Aware Random Walk twitter-0.150 Done!
+2060
+Common Neighbor Aware Random Walk twitter-0.200 Done!
+twitter,CNARW:整个流程所需要的时间：73.33131909370422
+FF mode with twitter
+reset index!
+4797
+forest fire twitter-0.050 Done!
+2118
+forest fire twitter-0.100 Done!
+9843
+forest fire twitter-0.150 Done!
+3737
+forest fire twitter-0.200 Done!
+twitter,FF:整个流程所需要的时间：16.158554077148438
+SS mode with twitter
+reset index!
+8504
+spikyball twitter-0.050 Done!
+9436
+spikyball twitter-0.100 Done!
+1616
+spikyball twitter-0.150 Done!
+9220
+spikyball twitter-0.200 Done!
+twitter,SS:整个流程所需要的时间：21.183414697647095
+RN mode with patent
+remove small connected components!
+begin nodes:2745761, edges:13965409
+now nodes:2738011, edges:13960809
+reset index!
+随机种子：8915
+random node patent-0.050 Done!
+随机种子：5928
+random node patent-0.100 Done!
+随机种子：7022
+random node patent-0.150 Done!
+随机种子：5856
+random node patent-0.200 Done!
+patent,RN:整个流程所需要的时间：226.26723265647888
+RE mode with patent
+remove small connected components!
+begin nodes:2745761, edges:13965409
+now nodes:2738011, edges:13960809
+reset index!
+6436
+random edge patent-0.050 Done!
+7193
+random edge patent-0.100 Done!
+6898
+random edge patent-0.150 Done!
+3091
+random edge patent-0.200 Done!
+patent,RE:整个流程所需要的时间：268.19022011756897
+CNARW mode with patent
+remove small connected components!
+begin nodes:2745761, edges:13965409
+now nodes:2738011, edges:13960809
+reset index!
+2232
+Common Neighbor Aware Random Walk patent-0.050 Done!
+5860
+Common Neighbor Aware Random Walk patent-0.100 Done!
+3401
+Common Neighbor Aware Random Walk patent-0.150 Done!
+5703
+Common Neighbor Aware Random Walk patent-0.200 Done!
+patent,CNARW:整个流程所需要的时间：513.0945460796356
+FF mode with patent
+remove small connected components!
+begin nodes:2745761, edges:13965409
+now nodes:2738011, edges:13960809
+reset index!
+7843
+forest fire patent-0.050 Done!
+8702
+forest fire patent-0.100 Done!
+4180
+forest fire patent-0.150 Done!
+8716
+forest fire patent-0.200 Done!
+patent,FF:整个流程所需要的时间：298.0245261192322
+SS mode with patent
+remove small connected components!
+begin nodes:2745761, edges:13965409
+now nodes:2738011, edges:13960809
+reset index!
+6450
+spikyball patent-0.050 Done!
+625
+spikyball patent-0.100 Done!
+6699
+spikyball patent-0.150 Done!
+5911
+spikyball patent-0.200 Done!
+patent,SS:整个流程所需要的时间：406.4434792995453
+RN mode with youtube
+remove small connected components!
+begin nodes:154817, edges:855090
+now nodes:154677, edges:853359
+reset index!
+随机种子：1363
+random node youtube-0.050 Done!
+随机种子：3029
+random node youtube-0.100 Done!
+随机种子：3526
+random node youtube-0.150 Done!
+随机种子：4982
+random node youtube-0.200 Done!
+youtube,RN:整个流程所需要的时间：8.239773988723755
+RE mode with youtube
+remove small connected components!
+begin nodes:154817, edges:855090
+now nodes:154677, edges:853359
+reset index!
+3334
+random edge youtube-0.050 Done!
+2551
+random edge youtube-0.100 Done!
+9502
+random edge youtube-0.150 Done!
+517
+random edge youtube-0.200 Done!
+youtube,RE:整个流程所需要的时间：11.557955503463745
+CNARW mode with youtube
+remove small connected components!
+begin nodes:154817, edges:855090
+now nodes:154677, edges:853359
+reset index!
+7077
+Common Neighbor Aware Random Walk youtube-0.050 Done!
+8383
+Common Neighbor Aware Random Walk youtube-0.100 Done!
+2812
+Common Neighbor Aware Random Walk youtube-0.150 Done!
+1740
+Common Neighbor Aware Random Walk youtube-0.200 Done!
+youtube,CNARW:整个流程所需要的时间：20.604941844940186
+FF mode with youtube
+remove small connected components!
+begin nodes:154817, edges:855090
+now nodes:154677, edges:853359
+reset index!
+2961
+forest fire youtube-0.050 Done!
+3821
+forest fire youtube-0.100 Done!
+5560
+forest fire youtube-0.150 Done!
+6636
+forest fire youtube-0.200 Done!
+youtube,FF:整个流程所需要的时间：22.27137041091919
+SS mode with youtube
+remove small connected components!
+begin nodes:154817, edges:855090
+now nodes:154677, edges:853359
+reset index!
+4377
+spikyball youtube-0.050 Done!
+9823
+spikyball youtube-0.100 Done!
+2936
+spikyball youtube-0.150 Done!
+9779
+spikyball youtube-0.200 Done!
+youtube,SS:整个流程所需要的时间：12.846401691436768
+-------------------
+
+进程已结束，退出代码为 0
+
+
+内存：
+C:\Users\lihua\.conda\envs\grap_con\python.exe C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\run.py
+Sampling Time test:
+RN mode with twitch
+reset index!
+随机种子：7621
+random node twitch-0.050 Done!
+随机种子：307
+random node twitch-0.100 Done!
+随机种子：1269
+random node twitch-0.150 Done!
+随机种子：8291
+random node twitch-0.200 Done!
+twitch,RN:整个流程所需要的时间：221.64154481887817
+Current memory usage: 2914146465 bytes
+Peak memory usage: 4858.205322265625 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=1895 MiB (+1895 MiB), count=20243708 (+20243708), average=98 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=1065 MiB (+1065 MiB), count=6648596 (+6648596), average=168 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=762 MiB (+762 MiB), count=139278 (+139278), average=5735 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=715 MiB (+715 MiB), count=13918600 (+13918600), average=54 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=238 MiB (+238 MiB), count=158650 (+158650), average=1572 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=84.4 MiB (+84.4 MiB), count=672451 (+672451), average=132 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=84.4 MiB (+84.4 MiB), count=672442 (+672442), average=132 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:248: size=4590 KiB (+4590 KiB), count=167858 (+167858), average=28 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=3585 KiB (+3585 KiB), count=13 (+13), average=276 KiB
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\pandas\io\formats\csvs.py:313: size=4504 B (+4504 B), count=80 (+80), average=56 B
+RN采样时间: 221.64154481887817 秒
+RN######## Sampling Done! ########
+RE mode with twitch
+reset index!
+8965
+random edge twitch-0.050 Done!
+6708
+random edge twitch-0.100 Done!
+9546
+random edge twitch-0.150 Done!
+4545
+random edge twitch-0.200 Done!
+twitch,RE:整个流程所需要的时间：219.7960648536682
+Current memory usage: 11632 bytes
+Peak memory usage: 5273.533595085144 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=1895 MiB (+1895 MiB), count=20243709 (+20243709), average=98 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=1065 MiB (+1065 MiB), count=6648597 (+6648597), average=168 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=762 MiB (+762 MiB), count=139278 (+139278), average=5735 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=715 MiB (+715 MiB), count=13918600 (+13918600), average=54 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=238 MiB (+238 MiB), count=158650 (+158650), average=1572 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=84.4 MiB (+84.4 MiB), count=672420 (+672420), average=132 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=84.4 MiB (+84.4 MiB), count=672411 (+672411), average=132 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=5121 KiB (+5121 KiB), count=14 (+14), average=366 KiB
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:248: size=4590 KiB (+4590 KiB), count=167858 (+167858), average=28 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\reportviews.py:1263: size=109 KiB (+109 KiB), count=1993 (+1993), average=56 B
+RE采样时间: 219.7960648536682 秒
+RE######## Sampling Done! ########
+CNARW mode with twitch
+reset index!
+391
+Common Neighbor Aware Random Walk twitch-0.050 Done!
+2773
+Common Neighbor Aware Random Walk twitch-0.100 Done!
+9314
+Common Neighbor Aware Random Walk twitch-0.150 Done!
+4997
+Common Neighbor Aware Random Walk twitch-0.200 Done!
+twitch,CNARW:整个流程所需要的时间：2214.236386537552
+Current memory usage: 22912 bytes
+Peak memory usage: 4981.65411567688 MB
+Memory allocations for the code block:
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=1065 MiB (+1065 MiB), count=6648598 (+6648598), average=168 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=415 MiB (+415 MiB), count=6797558 (+6797558), average=64 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=381 MiB (+381 MiB), count=69639 (+69639), average=5735 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=119 MiB (+119 MiB), count=79325 (+79325), average=1572 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=42.2 MiB (+42.2 MiB), count=336228 (+336228), average=132 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=42.2 MiB (+42.2 MiB), count=336219 (+336219), average=132 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=8373 KiB (+8373 KiB), count=168114 (+168114), average=51 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:248: size=4590 KiB (+4590 KiB), count=167858 (+167858), average=28 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=4097 KiB (+4097 KiB), count=8 (+8), average=512 KiB
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\littleballoffur\exploration_sampling\commonneighborawarerandomwalksampler.py:73: size=1382 KiB (+1382 KiB), count=58844 (+58844), average=24 B
+CNARW采样时间: 2214.236386537552 秒
+CNARW######## Sampling Done! ########
+FF mode with twitch
+reset index!
+752
+forest fire twitch-0.050 Done!
+599
+forest fire twitch-0.100 Done!
+2639
+forest fire twitch-0.150 Done!
+5746
+forest fire twitch-0.200 Done!
+twitch,FF:整个流程所需要的时间：172.61655187606812
+Current memory usage: 16047 bytes
+Peak memory usage: 4872.681806564331 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=1895 MiB (+1895 MiB), count=20243707 (+20243707), average=98 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=1065 MiB (+1065 MiB), count=6648599 (+6648599), average=168 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=762 MiB (+762 MiB), count=139278 (+139278), average=5735 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=715 MiB (+715 MiB), count=13918600 (+13918600), average=54 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=238 MiB (+238 MiB), count=158650 (+158650), average=1572 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=84.4 MiB (+84.4 MiB), count=672454 (+672454), average=132 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=84.4 MiB (+84.4 MiB), count=672444 (+672444), average=132 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=5121 KiB (+5121 KiB), count=13 (+13), average=394 KiB
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:248: size=4590 KiB (+4590 KiB), count=167858 (+167858), average=28 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\littleballoffur\exploration_sampling\forestfiresampler.py:79: size=5808 B (+5808 B), count=11 (+11), average=528 B
+FF采样时间: 172.61655187606812 秒
+FF######## Sampling Done! ########
+SS mode with twitch
+reset index!
+9617
+spikyball twitch-0.050 Done!
+8401
+spikyball twitch-0.100 Done!
+1193
+spikyball twitch-0.150 Done!
+5051
+spikyball twitch-0.200 Done!
+twitch,SS:整个流程所需要的时间：196.23937821388245
+Current memory usage: 2180623220 bytes
+Peak memory usage: 4864.098313331604 MB
+Memory allocations for the code block:
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=1065 MiB (+1065 MiB), count=6648598 (+6648598), average=168 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=415 MiB (+415 MiB), count=6797558 (+6797558), average=64 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=381 MiB (+381 MiB), count=69639 (+69639), average=5735 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=119 MiB (+119 MiB), count=79325 (+79325), average=1572 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=42.2 MiB (+42.2 MiB), count=336228 (+336228), average=132 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=42.2 MiB (+42.2 MiB), count=336219 (+336219), average=132 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=8373 KiB (+8373 KiB), count=168114 (+168114), average=51 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:248: size=4590 KiB (+4590 KiB), count=167858 (+167858), average=28 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=4097 KiB (+4097 KiB), count=8 (+8), average=512 KiB
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\littleballoffur\exploration_sampling\spikyballsampler.py:182: size=1241 KiB (+1241 KiB), count=52956 (+52956), average=24 B
+SS采样时间: 196.23937821388245 秒
+SS######## Sampling Done! ########
+RN mode with mico
+remove small connected components!
+begin nodes:100000, edges:1080156
+now nodes:93075, edges:1077207
+reset index!
+随机种子：2793
+random node mico-0.050 Done!
+随机种子：837
+random node mico-0.100 Done!
+随机种子：4079
+random node mico-0.150 Done!
+随机种子：148
+random node mico-0.200 Done!
+mico,RN:整个流程所需要的时间：31.832857370376587
+Current memory usage: 6415 bytes
+Peak memory usage: 889.6253681182861 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=227 MiB (+227 MiB), count=2081492 (+2081492), average=114 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=168 MiB (+168 MiB), count=3315714 (+3315714), average=53 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=44.6 MiB (+44.6 MiB), count=39869 (+39869), average=1172 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=32.1 MiB (+32.1 MiB), count=33214 (+33214), average=1014 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=25.6 MiB (+25.6 MiB), count=186256 (+186256), average=144 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=25.6 MiB (+25.6 MiB), count=185998 (+185998), average=144 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\pandas\io\formats\csvs.py:313: size=4504 B (+4504 B), count=80 (+80), average=56 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\utils\decorators.py:893: size=1152 B (+1152 B), count=12 (+12), average=96 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:236: size=496 B (+496 B), count=1 (+1), average=496 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\utils\decorators.py:1165: size=448 B (+448 B), count=1 (+1), average=448 B
+RN采样时间: 31.832857370376587 秒
+RN######## Sampling Done! ########
+RE mode with mico
+remove small connected components!
+begin nodes:100000, edges:1080156
+now nodes:93075, edges:1077207
+reset index!
+7813
+random edge mico-0.050 Done!
+3984
+random edge mico-0.100 Done!
+2943
+random edge mico-0.150 Done!
+8416
+random edge mico-0.200 Done!
+mico,RE:整个流程所需要的时间：22.702183961868286
+Current memory usage: 923217289 bytes
+Peak memory usage: 953.4358015060425 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=292 MiB (+292 MiB), count=3158704 (+3158704), average=97 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=168 MiB (+168 MiB), count=3315714 (+3315714), average=53 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=161 MiB (+161 MiB), count=1004177 (+1004177), average=168 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=104 MiB (+104 MiB), count=93074 (+93074), average=1169 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=51.2 MiB (+51.2 MiB), count=372308 (+372308), average=144 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=51.1 MiB (+51.1 MiB), count=372072 (+372072), average=144 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=49.7 MiB (+49.7 MiB), count=53092 (+53092), average=981 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:248: size=2538 KiB (+2538 KiB), count=92818 (+92818), average=28 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=1665 KiB (+1665 KiB), count=16 (+16), average=104 KiB
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\reportviews.py:1263: size=109 KiB (+109 KiB), count=1993 (+1993), average=56 B
+RE采样时间: 22.702183961868286 秒
+RE######## Sampling Done! ########
+CNARW mode with mico
+remove small connected components!
+begin nodes:100000, edges:1080156
+now nodes:93075, edges:1077207
+reset index!
+3732
+Common Neighbor Aware Random Walk mico-0.050 Done!
+6162
+Common Neighbor Aware Random Walk mico-0.100 Done!
+9053
+Common Neighbor Aware Random Walk mico-0.150 Done!
+6846
+Common Neighbor Aware Random Walk mico-0.200 Done!
+mico,CNARW:整个流程所需要的时间：68.31513357162476
+Current memory usage: 2266 bytes
+Peak memory usage: 903.5555229187012 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=292 MiB (+292 MiB), count=3158704 (+3158704), average=97 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=168 MiB (+168 MiB), count=3315714 (+3315714), average=53 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=161 MiB (+161 MiB), count=1004177 (+1004177), average=168 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=104 MiB (+104 MiB), count=93074 (+93074), average=1169 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=51.2 MiB (+51.2 MiB), count=372306 (+372306), average=144 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=51.1 MiB (+51.1 MiB), count=372071 (+372071), average=144 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=49.7 MiB (+49.7 MiB), count=53092 (+53092), average=981 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:248: size=2538 KiB (+2538 KiB), count=92818 (+92818), average=28 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=1665 KiB (+1665 KiB), count=16 (+16), average=104 KiB
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\littleballoffur\exploration_sampling\commonneighborawarerandomwalksampler.py:73: size=1091 KiB (+1091 KiB), count=46532 (+46532), average=24 B
+CNARW采样时间: 68.31513357162476 秒
+CNARW######## Sampling Done! ########
+FF mode with mico
+remove small connected components!
+begin nodes:100000, edges:1080156
+now nodes:93075, edges:1077207
+reset index!
+1447
+forest fire mico-0.050 Done!
+8363
+forest fire mico-0.100 Done!
+6809
+forest fire mico-0.150 Done!
+1844
+forest fire mico-0.200 Done!
+mico,FF:整个流程所需要的时间：19.66865062713623
+Current memory usage: 547624593 bytes
+Peak memory usage: 891.5366468429565 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=292 MiB (+292 MiB), count=3158703 (+3158703), average=97 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=168 MiB (+168 MiB), count=3315714 (+3315714), average=53 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=161 MiB (+161 MiB), count=1004178 (+1004178), average=168 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=104 MiB (+104 MiB), count=93074 (+93074), average=1169 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=51.2 MiB (+51.2 MiB), count=372308 (+372308), average=144 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=51.1 MiB (+51.1 MiB), count=372072 (+372072), average=144 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=49.7 MiB (+49.7 MiB), count=53092 (+53092), average=981 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:248: size=2538 KiB (+2538 KiB), count=92818 (+92818), average=28 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=512 KiB (+512 KiB), count=4 (+4), average=128 KiB
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\littleballoffur\exploration_sampling\forestfiresampler.py:85: size=5280 B (+5280 B), count=10 (+10), average=528 B
+FF采样时间: 19.66865062713623 秒
+FF######## Sampling Done! ########
+SS mode with mico
+remove small connected components!
+begin nodes:100000, edges:1080156
+now nodes:93075, edges:1077207
+reset index!
+7687
+spikyball mico-0.050 Done!
+5063
+spikyball mico-0.100 Done!
+9645
+spikyball mico-0.150 Done!
+3912
+spikyball mico-0.200 Done!
+mico,SS:整个流程所需要的时间：38.59825825691223
+Current memory usage: 378512523 bytes
+Peak memory usage: 902.1323204040527 MB
+Memory allocations for the code block:
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=161 MiB (+161 MiB), count=1004176 (+1004176), average=168 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=65.7 MiB (+65.7 MiB), count=1077218 (+1077218), average=64 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=59.2 MiB (+59.2 MiB), count=53205 (+53205), average=1166 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=25.6 MiB (+25.6 MiB), count=186158 (+186158), average=144 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=25.6 MiB (+25.6 MiB), count=186079 (+186079), average=144 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=17.5 MiB (+17.5 MiB), count=19878 (+19878), average=925 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=3235 KiB (+3235 KiB), count=64955 (+64955), average=51 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:248: size=2538 KiB (+2538 KiB), count=92818 (+92818), average=28 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=1025 KiB (+1025 KiB), count=8 (+8), average=128 KiB
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\littleballoffur\exploration_sampling\spikyballsampler.py:182: size=687 KiB (+687 KiB), count=29319 (+29319), average=24 B
+SS采样时间: 38.59825825691223 秒
+SS######## Sampling Done! ########
+RN mode with dblp
+reset index!
+随机种子：7585
+random node dblp-0.050 Done!
+随机种子：9659
+random node dblp-0.100 Done!
+随机种子：4764
+random node dblp-0.150 Done!
+随机种子：163
+random node dblp-0.200 Done!
+dblp,RN:整个流程所需要的时间：26.212156295776367
+Current memory usage: 601747212 bytes
+Peak memory usage: 1035.3632745742798 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=280 MiB (+280 MiB), count=3044890 (+3044890), average=96 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=160 MiB (+160 MiB), count=1268315 (+1268315), average=133 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=160 MiB (+160 MiB), count=1267815 (+1267815), average=133 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=152 MiB (+152 MiB), count=945653 (+945653), average=168 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=141 MiB (+141 MiB), count=2727115 (+2727115), average=54 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=98.1 MiB (+98.1 MiB), count=166810 (+166810), average=617 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=15.9 MiB (+15.9 MiB), count=42610 (+42610), average=390 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:248: size=8663 KiB (+8663 KiB), count=316824 (+316824), average=28 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=5121 KiB (+5121 KiB), count=13 (+13), average=394 KiB
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\pandas\io\formats\csvs.py:313: size=4504 B (+4504 B), count=80 (+80), average=56 B
+RN采样时间: 26.212156295776367 秒
+RN######## Sampling Done! ########
+RE mode with dblp
+reset index!
+7037
+random edge dblp-0.050 Done!
+531
+random edge dblp-0.100 Done!
+2070
+random edge dblp-0.150 Done!
+6400
+random edge dblp-0.200 Done!
+dblp,RE:整个流程所需要的时间：39.08402752876282
+Current memory usage: 1069239992 bytes
+Peak memory usage: 1093.9585847854614 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=280 MiB (+280 MiB), count=3044890 (+3044890), average=96 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=160 MiB (+160 MiB), count=1268283 (+1268283), average=133 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=160 MiB (+160 MiB), count=1267782 (+1267782), average=133 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=152 MiB (+152 MiB), count=945654 (+945654), average=168 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=141 MiB (+141 MiB), count=2727115 (+2727115), average=54 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=98.1 MiB (+98.1 MiB), count=166810 (+166810), average=617 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=15.9 MiB (+15.9 MiB), count=42610 (+42610), average=390 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:248: size=8663 KiB (+8663 KiB), count=316824 (+316824), average=28 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=6657 KiB (+6657 KiB), count=14 (+14), average=476 KiB
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\reportviews.py:1263: size=109 KiB (+109 KiB), count=1993 (+1993), average=56 B
+RE采样时间: 39.08402752876282 秒
+RE######## Sampling Done! ########
+CNARW mode with dblp
+reset index!
+3433
+Common Neighbor Aware Random Walk dblp-0.050 Done!
+3286
+Common Neighbor Aware Random Walk dblp-0.100 Done!
+5989
+Common Neighbor Aware Random Walk dblp-0.150 Done!
+7466
+Common Neighbor Aware Random Walk dblp-0.200 Done!
+dblp,CNARW:整个流程所需要的时间：80.13478088378906
+Current memory usage: 481784292 bytes
+Peak memory usage: 1063.5226392745972 MB
+Memory allocations for the code block:
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=152 MiB (+152 MiB), count=945653 (+945653), average=168 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=80.2 MiB (+80.2 MiB), count=634159 (+634159), average=133 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=80.1 MiB (+80.1 MiB), count=633659 (+633659), average=133 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=64.1 MiB (+64.1 MiB), count=1049868 (+1049868), average=64 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=49.0 MiB (+49.0 MiB), count=83405 (+83405), average=617 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=15.1 MiB (+15.1 MiB), count=310454 (+310454), average=51 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:248: size=8663 KiB (+8663 KiB), count=316824 (+316824), average=28 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=8118 KiB (+8118 KiB), count=21305 (+21305), average=390 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=4097 KiB (+4097 KiB), count=8 (+8), average=512 KiB
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\littleballoffur\exploration_sampling\commonneighborawarerandomwalksampler.py:73: size=2601 KiB (+2601 KiB), count=110978 (+110978), average=24 B
+CNARW采样时间: 80.13478088378906 秒
+CNARW######## Sampling Done! ########
+FF mode with dblp
+reset index!
+5457
+forest fire dblp-0.050 Done!
+6168
+forest fire dblp-0.100 Done!
+2808
+forest fire dblp-0.150 Done!
+5429
+forest fire dblp-0.200 Done!
+dblp,FF:整个流程所需要的时间：37.011398792266846
+Current memory usage: 10999 bytes
+Peak memory usage: 1062.4847116470337 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=280 MiB (+280 MiB), count=3044890 (+3044890), average=96 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=160 MiB (+160 MiB), count=1268283 (+1268283), average=133 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=160 MiB (+160 MiB), count=1267783 (+1267783), average=133 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=152 MiB (+152 MiB), count=945653 (+945653), average=168 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=141 MiB (+141 MiB), count=2727115 (+2727115), average=54 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=98.1 MiB (+98.1 MiB), count=166810 (+166810), average=617 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=15.9 MiB (+15.9 MiB), count=42610 (+42610), average=390 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:248: size=8663 KiB (+8663 KiB), count=316824 (+316824), average=28 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=6657 KiB (+6657 KiB), count=13 (+13), average=512 KiB
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\littleballoffur\exploration_sampling\forestfiresampler.py:85: size=4752 B (+4752 B), count=9 (+9), average=528 B
+FF采样时间: 37.011398792266846 秒
+FF######## Sampling Done! ########
+SS mode with dblp
+reset index!
+5941
+spikyball dblp-0.050 Done!
+2775
+spikyball dblp-0.100 Done!
+7391
+spikyball dblp-0.150 Done!
+3448
+spikyball dblp-0.200 Done!
+dblp,SS:整个流程所需要的时间：42.59907007217407
+Current memory usage: 2234 bytes
+Peak memory usage: 1047.4948959350586 MB
+Memory allocations for the code block:
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=152 MiB (+152 MiB), count=945653 (+945653), average=168 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=80.2 MiB (+80.2 MiB), count=634159 (+634159), average=133 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=80.1 MiB (+80.1 MiB), count=633659 (+633659), average=133 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=64.1 MiB (+64.1 MiB), count=1049868 (+1049868), average=64 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=49.0 MiB (+49.0 MiB), count=83405 (+83405), average=617 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=15.1 MiB (+15.1 MiB), count=310454 (+310454), average=51 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:248: size=8663 KiB (+8663 KiB), count=316824 (+316824), average=28 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=8118 KiB (+8118 KiB), count=21305 (+21305), average=390 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=4097 KiB (+4097 KiB), count=8 (+8), average=512 KiB
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\littleballoffur\exploration_sampling\spikyballsampler.py:182: size=2341 KiB (+2341 KiB), count=99881 (+99881), average=24 B
+SS采样时间: 42.59907007217407 秒
+SS######## Sampling Done! ########
+RN mode with twitter
+reset index!
+随机种子：4700
+random node twitter-0.050 Done!
+随机种子：3624
+random node twitter-0.100 Done!
+随机种子：6852
+random node twitter-0.150 Done!
+随机种子：1256
+random node twitter-0.200 Done!
+twitter,RN:整个流程所需要的时间：28.022862195968628
+Current memory usage: 592861674 bytes
+Peak memory usage: 998.0023641586304 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=371 MiB (+371 MiB), count=3975174 (+3975174), average=98 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=205 MiB (+205 MiB), count=1282042 (+1282042), average=168 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=140 MiB (+140 MiB), count=2748286 (+2748286), average=54 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=121 MiB (+121 MiB), count=64164 (+64164), average=1976 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=72.3 MiB (+72.3 MiB), count=56394 (+56394), average=1345 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=22.4 MiB (+22.4 MiB), count=179982 (+179982), average=131 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=22.2 MiB (+22.2 MiB), count=178640 (+178640), average=130 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:950: size=10.2 MiB (+10.2 MiB), count=69740 (+69740), average=154 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:949: size=9914 KiB (+9914 KiB), count=66435 (+66435), average=153 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:955: size=8531 KiB (+8531 KiB), count=75336 (+75336), average=116 B
+RN采样时间: 28.022862195968628 秒
+RN######## Sampling Done! ########
+RE mode with twitter
+reset index!
+9275
+random edge twitter-0.050 Done!
+9674
+random edge twitter-0.100 Done!
+8421
+random edge twitter-0.150 Done!
+423
+random edge twitter-0.200 Done!
+twitter,RE:整个流程所需要的时间：39.604448556900024
+Current memory usage: 1041962974 bytes
+Peak memory usage: 1078.2667379379272 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=371 MiB (+371 MiB), count=3975162 (+3975162), average=98 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=205 MiB (+205 MiB), count=1282041 (+1282041), average=168 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=140 MiB (+140 MiB), count=2748286 (+2748286), average=54 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=121 MiB (+121 MiB), count=64164 (+64164), average=1976 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=72.3 MiB (+72.3 MiB), count=56394 (+56394), average=1345 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=22.4 MiB (+22.4 MiB), count=179981 (+179981), average=131 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=22.2 MiB (+22.2 MiB), count=178640 (+178640), average=130 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:950: size=10.2 MiB (+10.2 MiB), count=69727 (+69727), average=154 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:949: size=9912 KiB (+9912 KiB), count=66421 (+66421), average=153 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:955: size=8529 KiB (+8529 KiB), count=75323 (+75323), average=116 B
+RE采样时间: 39.604448556900024 秒
+RE######## Sampling Done! ########
+CNARW mode with twitter
+reset index!
+5293
+Common Neighbor Aware Random Walk twitter-0.050 Done!
+1421
+Common Neighbor Aware Random Walk twitter-0.100 Done!
+9136
+Common Neighbor Aware Random Walk twitter-0.150 Done!
+4386
+Common Neighbor Aware Random Walk twitter-0.200 Done!
+twitter,CNARW:整个流程所需要的时间：132.47394371032715
+Current memory usage: 451804053 bytes
+Peak memory usage: 1023.1651849746704 MB
+Memory allocations for the code block:
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=205 MiB (+205 MiB), count=1282041 (+1282041), average=168 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=81.9 MiB (+81.9 MiB), count=1342311 (+1342311), average=64 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=72.1 MiB (+72.1 MiB), count=31512 (+31512), average=2398 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=24.5 MiB (+24.5 MiB), count=28767 (+28767), average=894 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=20.5 MiB (+20.5 MiB), count=162612 (+162612), average=132 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=20.5 MiB (+20.5 MiB), count=162598 (+162598), average=132 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=3053 KiB (+3053 KiB), count=61305 (+61305), average=51 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:248: size=2216 KiB (+2216 KiB), count=81050 (+81050), average=28 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=1025 KiB (+1025 KiB), count=8 (+8), average=128 KiB
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\littleballoffur\exploration_sampling\commonneighborawarerandomwalksampler.py:73: size=667 KiB (+667 KiB), count=28456 (+28456), average=24 B
+CNARW采样时间: 132.47394371032715 秒
+CNARW######## Sampling Done! ########
+FF mode with twitter
+reset index!
+9345
+forest fire twitter-0.050 Done!
+6713
+forest fire twitter-0.100 Done!
+7041
+forest fire twitter-0.150 Done!
+3887
+forest fire twitter-0.200 Done!
+twitter,FF:整个流程所需要的时间：35.61434531211853
+Current memory usage: 10999 bytes
+Peak memory usage: 1004.3766736984253 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=371 MiB (+371 MiB), count=3975161 (+3975161), average=98 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=205 MiB (+205 MiB), count=1282041 (+1282041), average=168 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=140 MiB (+140 MiB), count=2748286 (+2748286), average=54 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=121 MiB (+121 MiB), count=64164 (+64164), average=1976 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=72.3 MiB (+72.3 MiB), count=56394 (+56394), average=1345 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=22.4 MiB (+22.4 MiB), count=179981 (+179981), average=131 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=22.2 MiB (+22.2 MiB), count=178640 (+178640), average=130 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:950: size=10.2 MiB (+10.2 MiB), count=69727 (+69727), average=154 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:949: size=9911 KiB (+9911 KiB), count=66420 (+66420), average=153 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:955: size=8529 KiB (+8529 KiB), count=75323 (+75323), average=116 B
+FF采样时间: 35.61434531211853 秒
+FF######## Sampling Done! ########
+SS mode with twitter
+reset index!
+5387
+spikyball twitter-0.050 Done!
+4031
+spikyball twitter-0.100 Done!
+8211
+spikyball twitter-0.150 Done!
+2506
+spikyball twitter-0.200 Done!
+twitter,SS:整个流程所需要的时间：47.108238697052
+Current memory usage: 2674 bytes
+Peak memory usage: 1008.9023637771606 MB
+Memory allocations for the code block:
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=205 MiB (+205 MiB), count=1282041 (+1282041), average=168 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=81.9 MiB (+81.9 MiB), count=1342311 (+1342311), average=64 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=72.1 MiB (+72.1 MiB), count=31512 (+31512), average=2398 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=24.5 MiB (+24.5 MiB), count=28767 (+28767), average=894 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=20.5 MiB (+20.5 MiB), count=162612 (+162612), average=132 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=20.5 MiB (+20.5 MiB), count=162598 (+162598), average=132 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=3053 KiB (+3053 KiB), count=61305 (+61305), average=51 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:248: size=2216 KiB (+2216 KiB), count=81050 (+81050), average=28 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=1025 KiB (+1025 KiB), count=8 (+8), average=128 KiB
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\littleballoffur\exploration_sampling\spikyballsampler.py:182: size=600 KiB (+600 KiB), count=25611 (+25611), average=24 B
+SS采样时间: 47.108238697052 秒
+SS######## Sampling Done! ########
+RN mode with patent
+remove small connected components!
+begin nodes:2745761, edges:13965409
+now nodes:2738011, edges:13960809
+reset index!
+随机种子：7290
+random node patent-0.050 Done!
+随机种子：3759
+random node patent-0.100 Done!
+随机种子：3318
+random node patent-0.150 Done!
+随机种子：684
+random node patent-0.200 Done!
+patent,RN:整个流程所需要的时间：867.1502575874329
+Current memory usage: 7176197558 bytes
+Peak memory usage: 12193.994449615479 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=3664 MiB (+3664 MiB), count=40153942 (+40153942), average=96 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=1961 MiB (+1961 MiB), count=12239269 (+12239269), average=168 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=1733 MiB (+1733 MiB), count=32845937 (+32845937), average=55 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=1372 MiB (+1372 MiB), count=10952040 (+10952040), average=131 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=1370 MiB (+1370 MiB), count=10944117 (+10944117), average=131 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=1056 MiB (+1056 MiB), count=1978031 (+1978031), average=560 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=798 MiB (+798 MiB), count=1479925 (+1479925), average=565 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:248: size=73.1 MiB (+73.1 MiB), count=2737754 (+2737754), average=28 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=36.0 MiB (+36.0 MiB), count=16 (+16), average=2304 KiB
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\pandas\io\formats\csvs.py:313: size=4504 B (+4504 B), count=80 (+80), average=56 B
+RN采样时间: 867.1502575874329 秒
+RN######## Sampling Done! ########
+RE mode with patent
+remove small connected components!
+begin nodes:2745761, edges:13965409
+now nodes:2738011, edges:13960809
+reset index!
+7533
+random edge patent-0.050 Done!
+1266
+random edge patent-0.100 Done!
+3358
+random edge patent-0.150 Done!
+9196
+random edge patent-0.200 Done!
+patent,RE:整个流程所需要的时间：3235.1242604255676
+Current memory usage: 12640833190 bytes
+Peak memory usage: 12991.419334411621 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=3664 MiB (+3664 MiB), count=40153943 (+40153943), average=96 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:250: size=1961 MiB (+1961 MiB), count=12239268 (+12239268), average=168 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:220: size=1733 MiB (+1733 MiB), count=32845937 (+32845937), average=55 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=1372 MiB (+1372 MiB), count=10952006 (+10952006), average=131 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=1370 MiB (+1370 MiB), count=10944084 (+10944084), average=131 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=1056 MiB (+1056 MiB), count=1978031 (+1978031), average=560 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=798 MiB (+798 MiB), count=1479925 (+1479925), average=565 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Utils.py:248: size=73.1 MiB (+73.1 MiB), count=2737754 (+2737754), average=28 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=44.0 MiB (+44.0 MiB), count=16 (+16), average=2816 KiB
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\reportviews.py:1263: size=109 KiB (+109 KiB), count=1993 (+1993), average=56 B
+RE采样时间: 3235.1242604255676 秒
+RE######## Sampling Done! ########
+CNARW mode with patent
+remove small connected components!
+begin nodes:2745761, edges:13965409
+now nodes:2738011, edges:13960809
+reset index!
+2123
+
+进程已结束，退出代码为 -1
+

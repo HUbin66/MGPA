@@ -1,0 +1,110 @@
+-------------------
+twitter:整个流程所需要的时间：746.7998085021973
+Current memory usage: 1044969156 bytes
+Peak memory usage: 1067.331865310669 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=577 MiB (+577 MiB), count=5260366 (+5260366), average=115 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Graphweighting.py:22: size=140 MiB (+140 MiB), count=2748286 (+2748286), average=54 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=121 MiB (+121 MiB), count=64164 (+64164), average=1976 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=72.3 MiB (+72.3 MiB), count=56394 (+56394), average=1345 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=22.4 MiB (+22.4 MiB), count=179964 (+179964), average=131 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=21.7 MiB (+21.7 MiB), count=175492 (+175492), average=130 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:950: size=10.2 MiB (+10.2 MiB), count=69734 (+69734), average=154 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:949: size=9912 KiB (+9912 KiB), count=66426 (+66426), average=153 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:955: size=8530 KiB (+8530 KiB), count=75329 (+75329), average=116 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:954: size=7945 KiB (+7945 KiB), count=71767 (+71767), average=113 B
+
+
+
+
+dblp:整个流程所需要的时间：1164.7113177776337
+Current memory usage: 3813916 bytes
+Peak memory usage: 2612.233808517456 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=434 MiB (+434 MiB), count=4009253 (+4009253), average=114 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=160 MiB (+160 MiB), count=1267795 (+1267795), average=133 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=157 MiB (+157 MiB), count=1249584 (+1249584), average=132 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Graphweighting.py:22: size=141 MiB (+141 MiB), count=2727115 (+2727115), average=54 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=98.1 MiB (+98.1 MiB), count=166810 (+166810), average=617 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=15.9 MiB (+15.9 MiB), count=42610 (+42610), average=390 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Graphweighting.py:193: size=8664 KiB (+8664 KiB), count=316824 (+316824), average=28 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=6657 KiB (+6657 KiB), count=16 (+16), average=416 KiB
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Graphweighting.py:125: size=5496 KiB (+5496 KiB), count=234492 (+234492), average=24 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\node_weight.py:204: size=3328 KiB (+3328 KiB), count=2 (+2), average=1664 KiB
+
+
+
+twitch:整个流程所需要的时间：1484.697170972824
+Current memory usage: 1734161 bytes
+Peak memory usage: 4875.006359100342 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=2961 MiB (+2961 MiB), count=26898568 (+26898568), average=115 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=762 MiB (+762 MiB), count=139278 (+139278), average=5735 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Graphweighting.py:22: size=715 MiB (+715 MiB), count=13918600 (+13918600), average=54 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=238 MiB (+238 MiB), count=158650 (+158650), average=1572 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=84.4 MiB (+84.4 MiB), count=672424 (+672424), average=132 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=83.4 MiB (+83.4 MiB), count=666169 (+666169), average=131 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=5121 KiB (+5121 KiB), count=16 (+16), average=320 KiB
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Graphweighting.py:193: size=4590 KiB (+4590 KiB), count=167858 (+167858), average=28 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Graphweighting.py:125: size=3940 KiB (+3940 KiB), count=168114 (+168114), average=24 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\node_weight.py:204: size=1313 KiB (+1313 KiB), count=2 (+2), average=657 KiB
+
+
+
+patent:整个流程所需要的时间：12575.142913103104
+Current memory usage: 12728905812 bytes
+Peak memory usage: 19038.078278541565 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=5671 MiB (+5671 MiB), count=52678837 (+52678837), average=113 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Graphweighting.py:22: size=1733 MiB (+1733 MiB), count=32845937 (+32845937), average=55 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=1370 MiB (+1370 MiB), count=10944572 (+10944572), average=131 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=1326 MiB (+1326 MiB), count=10665912 (+10665912), average=130 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=1056 MiB (+1056 MiB), count=1978031 (+1978031), average=560 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=798 MiB (+798 MiB), count=1479925 (+1479925), average=565 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Graphweighting.py:193: size=73.1 MiB (+73.1 MiB), count=2737755 (+2737755), average=28 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Graphweighting.py:125: size=62.7 MiB (+62.7 MiB), count=2738011 (+2738011), average=24 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=44.0 MiB (+44.0 MiB), count=16 (+16), average=2816 KiB
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\node_weight.py:204: size=20.9 MiB (+20.9 MiB), count=2 (+2), average=10.5 MiB
+
+
+
+mico,EWS:整个流程所需要的时间：34.38339948654175
+Current memory usage: 1240085 bytes
+Peak memory usage: 960.4048795700073 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=454 MiB (+454 MiB), count=4168339 (+4168325), average=114 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Graphweighting.py:22: size=168 MiB (+168 MiB), count=3315714 (+3315714), average=53 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=104 MiB (+104 MiB), count=93074 (+93074), average=1169 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=51.2 MiB (+51.2 MiB), count=372204 (+372204), average=144 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=50.3 MiB (+50.3 MiB), count=366669 (+366669), average=144 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=49.7 MiB (+49.7 MiB), count=53092 (+53092), average=981 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Graphweighting.py:193: size=2538 KiB (+2538 KiB), count=92819 (+92819), average=28 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Graphweighting.py:125: size=2181 KiB (+2181 KiB), count=93075 (+93075), average=24 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=1665 KiB (+1665 KiB), count=16 (+16), average=104 KiB
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\littleballoffur\exploration_sampling\edgeweightsampler_mico.py:52: size=109 KiB (+109 KiB), count=1989 (+1989), average=56 B
+EWS采样时间: 49.674224853515625 秒
+EWS######## Sampling Done! ########
+
+
+
+youtube,EWS:整个流程所需要的时间：43.76976752281189
+Current memory usage: 758664781 bytes
+Peak memory usage: 1131.9570140838623 MB
+Memory allocations for the code block:
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:957: size=347 MiB (+347 MiB), count=3223863 (+3223849), average=113 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Graphweighting.py:22: size=96.6 MiB (+96.6 MiB), count=1872534 (+1872534), average=54 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:559: size=78.4 MiB (+78.4 MiB), count=618583 (+618583), average=133 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:558: size=77.0 MiB (+77.0 MiB), count=609716 (+609716), average=132 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:959: size=74.3 MiB (+74.3 MiB), count=130219 (+130219), average=598 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\graph.py:960: size=37.6 MiB (+37.6 MiB), count=68423 (+68423), average=576 B
+C:\Users\lihua\.conda\envs\grap_con\lib\site-packages\networkx\classes\filters.py:52: size=5121 KiB (+5121 KiB), count=16 (+16), average=320 KiB
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Graphweighting.py:193: size=4223 KiB (+4223 KiB), count=154421 (+154421), average=28 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\Graphweighting.py:125: size=3625 KiB (+3625 KiB), count=154677 (+154677), average=24 B
+C:\Users\lihua\Desktop\GC_Code\Graph_Sampling_Code_2\littleballoffur\exploration_sampling\edgeweightsampler_patent.py:77: size=109 KiB (+109 KiB), count=1995 (+1995), average=56 B
+EWS采样时间: 53.59997820854187 秒
+EWS######## Sampling Done! ########
+
+
+
+
+
