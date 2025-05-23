@@ -116,7 +116,7 @@ def normalize(weights):
 
 # @profile
 def get_wnode(data_path, motif_path,x,data,file_name):
-    # TODO 稠密图开1：5
+
     motif_list = get_motif_list(motif_path)
     G = get_G(data_path)
     num_nodes = data.num_nodes

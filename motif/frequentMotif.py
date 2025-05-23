@@ -338,14 +338,14 @@ def get_motif3():
     return motif
 
 
-def get_motif2v1b_1():#TODO:1-2-3是否等于1-3-2
+def get_motif2v1b_1():
     motif = nx.Graph()
     motif.add_node(1)
     motif.add_node(2)
     motif.add_edge(1, 2)
     return motif
 
-def get_motif3v2b_1():#TODO:1-2-3是否等于1-3-2
+def get_motif3v2b_1():
     motif = nx.Graph()
     motif.add_node(1)
     motif.add_node(2)
@@ -354,7 +354,7 @@ def get_motif3v2b_1():#TODO:1-2-3是否等于1-3-2
     motif.add_edge(2, 3)
     return motif
 
-def get_motif3v2b_2():#TODO:1-2-3是否等于1-3-2
+def get_motif3v2b_2():
     motif = nx.Graph()
     motif.add_node(1)
     motif.add_node(2)
